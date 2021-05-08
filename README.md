@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Program
+The program is like tik-tok but it is not working like tik-tok it has some functionalities of tik-tok. At the moment of seeing the code probably, the program will not be working in 100%. Because I am working in this program with firebase and firebase has some limitations. After some day firebase will ban access for my program to the server for this reason program will not show you video, music things that should store and work in server and cloud
+
+### Author 
+Nazirov Ilhomjon <naziroffjr@gmail.com>
