@@ -19,7 +19,8 @@ Clone of the TikTok.
 </p>
 <br>
 <p align="center">
- <img alt="tiktokclonepreview" title="tiktokclonepreview" src="https://res.cloudinary.com/matheuscastroweb/image/upload/v1588994570/tiktok-clone/preview-01_sgeuca.gif" /><br>
+![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d61746865757363617374726f7765622f696d6167652f75706c6f61642f76313538383939343537302f74696b746f6b2d636c6f6e652f707265766965772d30315f7367657563612e676966](https://user-images.githubusercontent.com/69512372/127659586-47da5ea1-c0af-484b-a3ac-0534f57b0452.gif)
+<br>
 </p>
 <br>
 
