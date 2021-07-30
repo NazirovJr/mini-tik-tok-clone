@@ -19,9 +19,7 @@ Clone of the TikTok.
 </p>
 <br>
 <p align="center">
-![tik-tok](https://user-images.githubusercontent.com/69512372/127659711-87aa02ce-c5bc-4209-8f13-64d6ec6a5aa7.gif)
-
-<br>
+<img alt="tik-tok-clone" src = "https://user-images.githubusercontent.com/69512372/127659711-87aa02ce-c5bc-4209-8f13-64d6ec6a5aa7.gif"><br>
 </p>
 <br>
 
