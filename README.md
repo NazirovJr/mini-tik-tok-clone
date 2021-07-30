@@ -12,13 +12,6 @@ Contact me at naziroffjr@gmail.com to about more.
 Clone of the TikTok. 
 </h4>
 
-<p align="center">
-
-  <img alt="shields.io" src="https://img.shields.io/github/repo-size/matheuscastroweb/tiktok-clone" />
-  <img alt="shields.io" src="https://img.shields.io/github/issues/matheuscastroweb/tiktok-clone" />
-   <img alt="shields.io" src="https://img.shields.io/github/license/matheuscastroweb/tiktok-clone" />
-
-</p>
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
